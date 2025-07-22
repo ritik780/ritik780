@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ritik and I'm a Web developer by heart and a programmer by mind, from Nahan,Himachal Pradesh</h2>
+<h2 align="left">Hi 👋! My name is Ritik and I'm a Web developer by heart❤️ and a programmer by mind🧠, from Nahan,Himachal Pradesh</h2>
 
 ###
 
@@ -9,8 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be2b69de-d428-4d9f-bb4d-eca00c06a3c0" />
-"  />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" height="150">
 
 ###
 
