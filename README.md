@@ -3,12 +3,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Ritik Tomar</h1>
+<h1 align="center">Hi , I'm Ritik Tomar</h1>
 <h3 align="center">A passionate Web Developer by heart❤️</h3>
 <h3 align="center">and a programmer by mind🧠</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer;React+%7C+Flask+%7C+MySQL;HTML+%7C+CSS+%7C+JavaScript+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer;Programmer+%7C;React+%7C+Flask+%7C+MySQL;HTML+%7C+CSS+%7C+JavaScript+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -42,8 +42,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ritik780&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritik780&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
