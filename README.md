@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.instagram.com/__ritik._.thakur/">
-    <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram" />
+    <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram" />
     
   </a>
 </p>
